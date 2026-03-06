@@ -1,7 +1,7 @@
 public class Sum {
     public static void main(String args[]){
-        int a=10;
-        int b=20;
+        int a=50;
+        int b=30;
         System.out.println("Sum of a and b = "+(a+b));
     }
 }
